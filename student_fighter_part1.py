@@ -1,5 +1,4 @@
 class StudentFighter(object):
-	
 	def __init__(self, strength, health, name):
 		self.strength = strength
 		self.name = name
